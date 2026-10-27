@@ -22,4 +22,4 @@ Some things I’ve built:
 - 🌱 Looking to grow through hands-on software engineering experience.
 - 🤝 Open to internship opportunities and collaboration.
 
-[LinkedIn](https://www.linkedin.com/in/shuhaabbhat) · [Email](mailto:shuhaabbhat@gmail.com)<!--
+[LinkedIn](https://www.linkedin.com/in/shuhaabbhat) · [Email](mailto:shuhaabbhat@gmail.com)
